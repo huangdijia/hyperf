@@ -1,5 +1,9 @@
 # v3.1.67 - TBD
 
+## Added
+
+- [#7648](https://github.com/hyperf/hyperf/pull/7648) Support aliyun mse signature for nacos.
+
 ## Optimized
 
 - [#7676](https://github.com/hyperf/hyperf/pull/7676) Optimized the client tagging for `hyperf/tracer`.
